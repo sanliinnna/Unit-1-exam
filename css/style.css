@@ -59,17 +59,9 @@ img {
   user-select: none;
 }
 
-.main-header__logo:hover {
-  color: #2aacc8;
-}
-
 .bis {
   font-weight: 900;
   color: black;
-}
-
-.bis:hover {
-  color: #2aacc8;
 }
 
 .lite {
@@ -240,7 +232,7 @@ img {
 }
 
 .options__ico {
-  margin-top: 35%;
+  margin-top: 40%;
   max-height: 30px;
   max-height: 30px;
 }
