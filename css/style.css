@@ -228,12 +228,12 @@ img {
   width: 100%;
   background: linear-gradient(transparent 50%, #2aacc8 50%);
   justify-content: space-evenly;
-  align-items: center;
+  align-items: flex-end;
 }
 
 .options__ico {
-  margin-top: 40%;
-  max-height: 30px;
+  margin-bottom: 35px;
+  max-width: 35px;
   max-height: 30px;
 }
 
