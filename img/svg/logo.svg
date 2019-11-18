@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 148 37">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        font-size: 50px;
+        font-family: Lato;
+      }
+
+      .cls-2 {
+        font-weight: 800;
+      }
+
+      .cls-3 {
+        fill: #2aacc8;
+        
+      }
+
+    </style>
+  </defs>
+  <text id="BisLite" class="cls-1" x="-3" y="37">
+    <tspan class="cls-2">Bis</tspan>
+    <tspan class="cls-3" x="65">Lite</tspan>
+  </text>
+</svg>

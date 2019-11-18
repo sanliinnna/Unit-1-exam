@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14.031 14">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #626262;
+        opacity: 0.5;
+      }
+    </style>
+  </defs>
+  <circle id="btn" class="cls-1" cx="7.015" cy="7" r="7.015"/>
+</svg>
